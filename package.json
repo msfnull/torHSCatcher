@@ -1,0 +1,31 @@
+{
+  "name": "torHSCatcher",
+  "version": "0.0.1",
+  "description": "An Onion Hidden Service Scanner",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js -s <Onion Address>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msfnull/torHSCatcher.git"
+  },
+  "keywords": [
+    "onion",
+    "hidden",
+    "service",
+    "scanner",
+    "finder",
+    "searcher",
+    "find",
+    "scan",
+    "search",
+    "onion",
+    "tor"
+  ],
+  "author": "MSF Null",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msfnull/torHSCatcher/issues"
+  }
+}
